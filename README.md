@@ -25,6 +25,6 @@ Command Line Arguments
 domain: The target domain to scan.
 --port-range: The range of ports to scan (default: 1-100).
 
-**## Usage**
+## Usage
 
 python security_audit_tool.py example.com --port-range 1-1000
